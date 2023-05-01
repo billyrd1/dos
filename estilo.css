@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+a:link, a:visited{
+    margin: 5px;
+    padding: 10px;
+    color: rgb(255, 6, 39);
+    font-size: 20px;
+}
+a:hover,a:active{
+    color: rgb(255, 6, 39);
+    background-color: rgb(4, 248, 126);
+}
+nav{
+    text-align: center;
+}
+.caja1{
+    width: 600px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(9, 243, 114);
+}
+.caja2{
+    width: 600px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(9, 243, 114);
+}
+.caja3{
+    width: 600px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(9, 243, 114);
+}
+.caja4{
+    width: 600px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(9, 243, 114);
+}
+.caja6{
+    width: 600px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(11, 202, 97);
+}
+.caja5{
+    padding-left: 800px;
+}
+
+main{
+    padding-left: 280px;
+}
+body{
+    background-color: rgb(216, 243, 216);
+}
+
